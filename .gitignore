@@ -1,0 +1,12 @@
+.vs
+BitFleet/bin
+BitFleet/obj
+BitFleet/Properties
+
+BitFleet.IntegrationTests/bin
+BitFleet.IntegrationTests/obj
+BitFleet.IntegrationTests/Properties
+
+BitFleet.UnitTests/bin
+BitFleet.UnitTests/obj
+BitFleet.UnitTests/Properties
